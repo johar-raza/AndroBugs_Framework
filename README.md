@@ -18,7 +18,7 @@ Version: 1.0.0
 
 - Yu-Cheng Lin  (androbugs.framework at gmail.com, @AndroBugs)
 
-## Steup Steps and Usage for Windows
+## Setup Steps and Usage for Windows
 
 **Easy to use for Android developers or hackers on Microsoft Windows: (a) No need to install Python 2.7 (b) No need to install any 3rd-party library (c) No need to install AndroBugs Framework**
 
